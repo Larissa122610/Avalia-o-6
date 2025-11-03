@@ -35,7 +35,7 @@ GitHub Pages — Hospedagem estática do site.
 
 🚀 Como visualizar o projeto localmente
 # Clone o repositório
-git clone https://github.com/usuario/larissa-vaz-terra-galeria.git
+git clone https://github.com/Larissa122610/Avalia-o-6
 
 # Entre no diretório
 cd larissa-vaz-terra-galeria
